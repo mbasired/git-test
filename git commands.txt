@@ -1,0 +1,9 @@
+git init => to initialize as git 
+git status => for status check
+git add . => to add all files to staging area
+git add <file name> => to add specific file to staging area
+git commit -m "message" => to commit the file
+git log => to check logs
+git log --oneline => to show all logs and each log is showed in a single line. 
+git remote add origin "repository url" => to connect with remote repository.
+git push origin master => to push local repo to remote repo.
